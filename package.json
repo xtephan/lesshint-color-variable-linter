@@ -1,0 +1,29 @@
+{
+  "name": "lesshint-color-variable-linter",
+  "version": "0.0.1",
+  "description": "Linter for lesshint that enforces colors to be declared as variables",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xtephan/lesshint-color-variable-linter"
+  },
+  "keywords": [
+    "lesshint",
+    "color",
+    "variable",
+    "hint",
+    "lint"
+  ],
+  "author": "Stefan Fodor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xtephan/lesshint-color-variable-linter/issues"
+  },
+  "homepage": "https://github.com/xtephan/lesshint-color-variable-linter",
+  "peerDependencies": {
+    "lesshint": "^3.2.0"
+  }
+}
